@@ -1,0 +1,783 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Software\n"
+"POT-Creation-Date: 2020-08-27 15:37+0530\n"
+"PO-Revision-Date: 2020-08-27 15:37+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "404 Not Found"
+msgstr "'404 नहीं मिला'"
+
+#: 404.php:18
+msgid "Looks like you have taken a wrong turn.....Dont worry... it happens to the best of us."
+msgstr "लगता है कि आपने गलत मोड़ ले लिया है ..... चिंता मत करो ... यह हमारे लिए सबसे अच्छा होता है।"
+
+#: archive.php:32 front-page.php:37 front-page.php:72
+msgid "Back"
+msgstr "पीछे"
+
+#: archive.php:33 front-page.php:38 front-page.php:73
+msgid "Next"
+msgstr "बग्लें"
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: category.php:18
+msgid "Category: "
+msgstr "भाषा:"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "आवश्यक प्लगिन स्थापित करें"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "प्लगइन्स स्थापित करें"
+
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "प्लगइन स्थापित करना:  %s"
+
+#: class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "प्लगइन अपडेट करना: %s"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "प्लगइन एपीआई के साथ कुछ गलत हो गया।"
+
+#: class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "इस विषय को निम्नलिखित प्लगइन की आवश्यकता है:  %1$s."
+msgstr[1] "इस विषय को निम्नलिखित प्लगइन की आवश्यकता है:  %1$s."
+
+#: class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "यह विषय निम्नलिखित प्लगइन की सिफारिश करता है:  %1$s."
+msgstr[1] "यह विषय निम्नलिखित प्लगइन की सिफारिश करता है:  %1$s."
+
+#: class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum compatibility "
+"with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure maximum "
+"compatibility with this theme: %1$s."
+msgstr[0] ""
+"इस विषय के साथ अधिकतम अनुकूलता सुनिश्चित करने के लिए निम्नलिखित प्लगइन को इसके नवीनतम संस्करण में अपडेट किया "
+"जाना चाहिए:  %1$s."
+msgstr[1] ""
+"इस विषय के साथ अधिकतम अनुकूलता सुनिश्चित करने के लिए निम्नलिखित प्लगइन को इसके नवीनतम संस्करण में अपडेट किया "
+"जाना चाहिए:  %1$s."
+
+#: class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s : के लिए एक अद्यतन उपलब्ध है।"
+msgstr[1] "%1$s  के लिए एक अद्यतन उपलब्ध है।"
+
+#: class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "निम्न आवश्यक प्लगइन वर्तमान में निष्क्रिय है: %1$s."
+msgstr[1] "निम्न आवश्यक प्लगइन वर्तमान में निष्क्रिय है:%1$s."
+
+#: class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "निम्न अनुशंसित प्लगइन वर्तमान में निष्क्रिय है: %1$s."
+msgstr[1] "निम्न अनुशंसित प्लगइन वर्तमान में निष्क्रिय है: %1$s."
+
+#: class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "प्लगइन स्थापित करना शुरू करें"
+msgstr[1] "प्लगइन स्थापित करना शुरू करें"
+
+#: class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "प्लगइन अपडेट करना शुरू करें"
+msgstr[1] "प्लगइन अपडेट करना शुरू करें"
+
+#: class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "प्लगइन सक्रिय करना शुरू करें"
+msgstr[1] "प्लगइन सक्रिय करना शुरू करें"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "आवश्यक प्लगइन इंस्टॉलर पर वापस आएं"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "डाइश्बोर्ड पर वापस आएं"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "प्लगइन सफलतापूर्वक सक्रिय हो गया।"
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "निम्नलिखित प्लगइन सफलतापूर्वक सक्रिय हो गया था:"
+msgstr[1] "निम्नलिखित प्लगइन सफलतापूर्वक सक्रिय हो गया था:"
+
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "कोई कार्रवाई नहीं। प्लगइन %1$s पहले से ही सक्रिय था।"
+
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update the "
+"plugin."
+msgstr "प्लगिन सक्रिय नहीं है। इस विषय के लिए%s के उच्च संस्करण की आवश्यकता है। कृपया प्लगइन को अपडेट करें।"
+
+#: class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "सभी प्लगइनस इंस्टाल और सफलतापूर्वक एक्टिवेट कर दी गयी है । %1$s"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "इस नोटिस को खारिज करें"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "इंस्टॉल, अपडेट या सक्रिय करने के लिए एक या अधिक आवश्यक या अनुशंसित प्लगइन्स हैं।"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "कृपया मदद के लिए इस साइट के व्यवस्थापक से संपर्क करें।"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "इस प्लगइन को आपके विषय के साथ संगत होने के लिए अद्यतन करने की आवश्यकता है।"
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "अपडेट ज़रूरी है"
+
+#: class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and renaming did not "
+"work."
+msgstr "दूरस्थ प्लगइन पैकेज में वांछित स्लग के साथ एक फ़ोल्डर नहीं होता है और नाम बदलने से काम नहीं होता है।"
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according to the "
+"WordPress guidelines."
+msgstr ""
+"कृपया प्लगइन प्रदाता से संपर्क करें और उन्हें वर्डप्रेस दिशानिर्देशों के अनुसार अपने प्लगइन को पैकेज करने के लिए कहें।"
+
+#: class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not packaged in a "
+"folder."
+msgstr "रिमोट प्लगइन पैकेज में एक से अधिक फ़ाइल होते हैं, लेकिन फ़ाइलें किसी फ़ोल्डर में पैक नहीं की जाती हैं।"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "और"
+
+#: class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "टीजीएमपीए v%s"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "आवश्यक"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "सफारशशुदा"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "वर्डप्रेस रिपोजिटरी"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "बाहरी स्रोतcontinuation of \"obtain picture from\""
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "पहले से पैक किया"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "संस्थापित नहीं."
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "इंस्टाल है, लेकिन एक्टिवेट नहीं है"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "सक्रिय"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "आवश्यक अद्यतन उपलब्ध नहीं है"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "अद्यतन की आवश्यकता है"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "अद्यतन करने की अनुशंषा की जाती है"
+
+#: class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+"<ph id=\"mtc_1\" equiv-text=\"base64:JTEkcw==\"/>-<ph id=\"mtc_2\" equiv-text=\"base64:JTIkcw=="
+"\"/>"
+
+#: class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "सभी <span class=\"count\">(%s)</span>"
+msgstr[1] "सभी <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "स्थापित करने के लिए <span class=\"count\">(%s)</span>"
+msgstr[1] "स्थापित करने के लिए <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "अपडेट उपलब्ध <span class=\"count\">(%s)</span>"
+msgstr[1] "अपडेट उपलब्ध <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "सक्रिय करने के लिए <span class=\"count\">(%s)</span>"
+msgstr[1] "सक्रिय करने के लिए <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "अज्ञात"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "स्थापित संस्करण:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "न्यूनतम आवश्यक संस्करण:"
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "उपलब्ध संस्करण:"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "कोई प्लग इन स्थापित करने, अद्यतन करने या सक्रिय करने के लिए नहीं।"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "प्लगइन"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "स्रोत"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "टाइप"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Timestamp"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "स्टेटस"
+
+#: class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "स्थापित करें %2$s"
+
+#: class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "अद्यतन %2$s"
+
+#: class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "सक्रिय करता है %2$s"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "प्लगइन लेखक से अपग्रेड संदेश:"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "इन्स्टाल करें"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "अद्यतन करें"
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "एक्टिवेट"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "कोई प्लगइन्स स्थापित करने के लिए नहीं चुना गया था। कोई कार्रवाई नहीं की गयी।"
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "किसी भी प्लगइन्स को अपडेट करने के लिए नहीं चुना गया था। कोई कार्रवाई नहीं की गयी।"
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "इस समय कोई प्लग इन स्थापित करने के लिए उपलब्ध नहीं हैं।"
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "इस समय अपडेट होने के लिए कोई प्लगइन्स उपलब्ध नहीं हैं।"
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "कोई प्लगइन्स सक्रिय होने के लिए नहीं चुना गया था। कोई कार्रवाई नहीं की गयी।"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "इस समय कोई प्लगइन्स सक्रिय होने के लिए उपलब्ध नहीं हैं।"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "प्लगिन सक्रियण विफल।"
+
+#: class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "अद्यतन कर रहा है प्लगइन %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s: </strong> %1$s स्थापित करते समय एक त्रुटि हुई।"
+
+#: class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s की इंस्टालेशन विफल रही ।"
+
+#: class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"इंस्टालेशन और एक्टिवेशन की प्रक्रिया शुरू हो रही है। इस प्रक्रिया में कुछ होस्ट्स पर कुछ समय लग सकता है, तो कृपया "
+"धैर्य रखें।"
+
+#: class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s सफलतापूर्वक इन्स्टाल और एक्टिवेट कर दिया गया ।"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "विवरण (D)"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "लॉगिंग विवरण"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "सभी इंस्टालेशन और एक्टिवेशन पूरी हो चुकी है।"
+
+#: class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s (%2$d/%3$d) प्लगइन इन्स्टाल और एक्टिवेट हो रहा है "
+
+#: class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so please "
+"be patient."
+msgstr ""
+"स्थापना की प्रक्रिया शुरू हो रही है। कुछ मेजबानों पर इस प्रक्रिया में थोड़ा समय लग सकता है, इसलिए कृपया धैर्य रखें।"
+
+#: class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s सफलतापूर्वक स्थापित किया गया है।"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "सभी स्थापनाएं पूरी हो चुकी हैं।"
+
+#: class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s (%2$d/%3$d) प्लगइन इन्स्टाल हो रही है"
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "टिप्पणी नेविगेशन"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; अधिक पुरानी टिप्पणियां"
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "नई टिप्पणी &rarr;"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद कर दी गयी है।."
+
+#: content-single.php:22 image.php:51 page.php:24 template-fullwide.php:18
+msgid "Pages:"
+msgstr "पृष्ठ:"
+
+#: content-single.php:26 page.php:28 template-fullwide.php:22
+msgid "Page"
+msgstr "पृष्ठ"
+
+#: content.php:17
+msgid ", "
+msgstr ", "
+
+#: content.php:24
+msgid "Read More &rarr;"
+msgstr "और पढ़ें →"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "जारी रखें पढ़ने <span class=\"meta-nav\">&rarr;</span>"
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr "प्रो में अपग्रेड"
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "अभी अपग्रेड करें।"
+
+#. Theme Name of the plugin/theme
+#: footer.php:44
+msgid "SKT Software"
+msgstr "SKT सॉफ्टवेयर"
+
+#: functions.php:37
+msgid "Primary Menu"
+msgstr "प्राथमिक"
+
+#: functions.php:48
+msgid "Sidebar"
+msgstr "साइडबार"
+
+#: functions.php:49
+msgid "Appears on sidebar"
+msgstr "साइडबार पर दिखाई देता है"
+
+#: functions.php:58
+msgid "Footer Column 1"
+msgstr "पाद लेख कॉलम १"
+
+#: functions.php:59 functions.php:69 functions.php:79 functions.php:89
+msgid "Appears on page footer"
+msgstr "पृष्ठ पाद पर दिखाई देता है"
+
+#: functions.php:68
+msgid "Footer Column 2"
+msgstr "पाद लेख 2"
+
+#: functions.php:78
+msgid "Footer Column 3"
+msgstr "पाद लेख ३"
+
+#: functions.php:88
+msgid "Footer Column 4"
+msgstr "पाद लेख 4"
+
+#: functions.php:105
+msgctxt "Roboto Condensed:on or off"
+msgid "on"
+msgstr "चालू"
+
+#: functions.php:110
+msgctxt "Roboto:on or off"
+msgid "on"
+msgstr "चालू"
+
+#: functions.php:111
+msgctxt "Assistant:on or off"
+msgid "on"
+msgstr "चालू"
+
+#: functions.php:112
+msgctxt "Poppins:on or off"
+msgid "on"
+msgstr "चालू"
+
+#: functions.php:151
+msgid "Open main menu"
+msgstr "मुख्य मेनू"
+
+#: functions.php:152
+msgid "Close main menu"
+msgstr "मुख्य मेनू बंद करें"
+
+#: functions.php:153
+msgid "Expand submenu"
+msgstr "सबमेनू का विस्तार करें"
+
+#: functions.php:154
+msgid "Collapse submenu"
+msgstr "सबमेनू को संक्षिप्त करें"
+
+#: functions.php:273
+msgid "Thank you for installing SKT Software!"
+msgstr "SKT सॉफ्टवेयर स्थापित करने के लिए धन्यवाद!"
+
+#: functions.php:274
+msgid ""
+"SKT Software comes with 63+ ready-to-use Elementor templates. Install the SKT Templates plugin "
+"to get started."
+msgstr ""
+"SKT सॉफ्टवेयर 63+ रेडी-टू-यूज एलिमेंट टेम्प्लेट के साथ आता है। आरंभ करने के लिए SKT टेम्प्लेट प्लगइन स्थापित करें।"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "\"विशे-समग्री छोड़ो\""
+
+#: header.php:60
+msgid "View your shopping cart"
+msgstr "आपका शॉपिंग कार्ट"
+
+#: header.php:65
+msgid "Menu"
+msgstr "मेन्यू"
+
+#: image.php:20
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"प्रकाशित <time class=\"entry-date\" datetime=\"%1$s\"> <span class=\"entry-date\">%2$s</span> </"
+"time> <a href=\"%3$s\">%4$s ×%5$s</a> <a href=\"%6$s\" rel=\"gallery\">%7$s में</a>"
+
+#: image.php:29 image.php:56
+msgid "Edit"
+msgstr "संपादित"
+
+#: image.php:33
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">←</span> पिछला"
+
+#: image.php:34
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "अगला <span class=\"meta-nav\">→</span>"
+
+#: inc/about-themes.php:5
+msgid "About Theme"
+msgstr "थीम के बारे में"
+
+#: inc/about-themes.php:15
+msgid "Theme Information"
+msgstr "थीम सूचना"
+
+#. Description of the plugin/theme
+#: inc/about-themes.php:17
+msgid ""
+"SKT Software is a multipurpose WordPress theme which can be used for IT, repair, services, "
+"online medium, coaching, corporate, business, program, freeware, application, operating "
+"system, laptop, computer, courseware, productivity, file management and others. It comes with "
+"ready to import 63+ Elementor templates which can be used for home and inner pages. It is "
+"fast, flexible, simple and fully customizable. WooCommerce compatible."
+msgstr ""
+"SKT सॉफ्टवेयर एक बहुउद्देशीय वर्डप्रेस थीम है जिसका उपयोग आईटी, मरम्मत, सेवाओं, ऑनलाइन माध्यम, कोचिंग, "
+"कॉर्पोरेट, व्यापार, कार्यक्रम, फ्रीवेयर, एप्लिकेशन, ऑपरेटिंग सिस्टम, लैपटॉप, कंप्यूटर, कोर्सवेयर, उत्पादकता, फ़ाइल "
+"प्रबंधन और अन्य के लिए किया जा सकता है। यह 63+ एलिमेंट टेम्प्लेट आयात करने के लिए तैयार है, जिसका उपयोग घर और "
+"आंतरिक पृष्ठों के लिए किया जा सकता है। यह तेज, लचीला, सरल और पूरी तरह से अनुकूलन योग्य है। WooCommerce संगत।"
+
+#: inc/about-themes.php:23
+msgid "Live Demo"
+msgstr "लाइव डेमो"
+
+#: inc/about-themes.php:24
+msgid "Buy Pro"
+msgstr "खरीदारी के समर्थक"
+
+#: inc/about-themes.php:25
+msgid "Documentation"
+msgstr "प्रलेखन"
+
+#: inc/customizer.php:69
+msgid "Color Scheme"
+msgstr "रंग प्रणाली"
+
+#: inc/customizer.php:70
+msgid "More color options in PRO Version"
+msgstr "प्रो संस्करण में अधिक रंग विकल्प"
+
+#: inc/customizer.php:78
+msgid "Homepage Transparent Header"
+msgstr "होमपेज पारदर्शी हेडर"
+
+#: inc/customizer.php:88
+msgid "Uncheck To Enable Transparent Header"
+msgstr "पारदर्शी हैडर को सक्षम करने के लिए अनचेक करें"
+
+#: inc/customizer.php:94
+msgid "Header Button"
+msgstr "एफएक्यू हेडर बटन"
+
+#: inc/customizer.php:104
+msgid "Add button name here"
+msgstr "यहां बटन नाम जोड़ें"
+
+#: inc/customizer.php:115
+msgid "Add button link"
+msgstr "जोड़ने का बटन"
+
+#: inc/customizer.php:127
+msgid "Uncheck To Show This Section"
+msgstr "इस अनुभाग को दिखाने के लिए अनचेक करें"
+
+#: inc/template-tags.php:28
+msgid "Post navigation"
+msgstr "नेविगेशन"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "←"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "→"
+
+#: inc/template-tags.php:55
+msgid "Pingback:"
+msgstr "पिंगबैक:"
+
+#: inc/template-tags.php:73
+msgid "Your comment is awaiting moderation."
+msgstr "आपकी टिप्पणी स्वीकृति हेतु प्रतीक्षा में है।"
+
+#: inc/template-tags.php:161
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">पर प्रविष्ट किया</span>"
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "कुछ नहीं मिला"
+
+#: no-results.php:15
+msgid "Ready to publish your first post? Get started here."
+msgstr "अपनी पहली पोस्ट को प्रकाशित करने के लिए तैयार हैं? यहाँ से शुरुआत करें।"
+
+#: no-results.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "क्षमा करें, लेकिन आपके खोज शब्दों से कुछ भी मेल नहीं खाता। कृपया कुछ अलग कीवर्ड के साथ फ़िर से कोशिश करें।"
+
+#: no-results.php:20
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ऐसा लगता है कि हम पाते हैं कि आप क्या ढूंढ रहे हैं। शायदखोज से मदद मिल सकती है।."
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "के लिए सर्च परिणाम : %s"
+
+#: searchform.php:10
+msgid "Search..."
+msgstr "खोजे..."
+
+#: searchform.php:12
+msgid "Search"
+msgstr "खोजें"
+
+#: sidebar.php:10
+msgid "Category"
+msgstr "श्रेणी"
+
+#: sidebar.php:16
+msgid "Archives"
+msgstr "अभिलेखागार"
+
+#: sidebar.php:22
+msgid "Meta"
+msgstr "मेटा"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.org/shop/free-software-wordpress-theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.org"
+msgstr ""

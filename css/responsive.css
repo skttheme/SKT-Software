@@ -1,0 +1,457 @@
+/* Mobile Portrait View */
+
+@media screen and (max-width:767px) {
+  * {
+    box-sizing: border-box;
+  }
+  .left,
+  .right,
+  .copyright-txt,
+  .design-by,
+  .headertop .left,
+  .headertop .right {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .center {
+    width: 100%;
+  }
+  .container {
+    width: auto;
+    padding: 0 20px;
+  }
+  .footer {
+    padding-top: 40px;
+    padding-bottom: 30px;
+  }
+  .wrap_one {
+    width: auto;
+    text-align: center;
+  }
+  .header {
+    width: 100%;
+    padding: 0;
+    position: relative!important;
+    background-color: #222933!important;
+  }
+  .logo {
+    float: none;
+    text-align: left;
+    padding: 25px 150px 25px 0;
+    position: relative;
+    width: auto;
+  }
+  .header-extras {
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 20px;
+  }
+  .logo h2 {
+    text-align: center;
+  }
+  .logo p {
+    text-align: center;
+  }
+  .headsearchbox {
+    margin: 30px 100px 30px 30px;
+  }
+  #sidebar {
+    width: 100%;
+    float: none;
+  }
+  .widget-right {
+    width: 280px;
+    margin: 0 auto;
+    float: none;
+    padding: 15px 0;
+    display: table;
+    text-align: center;
+  }
+  .widget-right ul li {
+    border: none;
+  }
+  .widget-column-2 {
+    padding: 0;
+    border: 0;
+  }
+  .content-area {
+    width: auto;
+    margin: 0;
+    padding: 50px 20px;
+  }
+  .site-main {
+    width: auto;
+    margin: 0;
+    padding: 0 0 20px;
+    float: none;
+  }
+  .copyright-wrapper {
+    text-align: center;
+  }
+  .cols-3 {
+    width: 100%!important;
+    display: block;
+    margin-right: 0;
+    margin-bottom: 15%;
+  }
+  h2.section_title {
+    text-align: center;
+  }
+  .BlogPosts {
+    float: none;
+    width: auto;
+    margin: 0 0 10%;
+  }
+  .wpcf7 input[type="text"],
+  .wpcf7 input[type="tel"],
+  .wpcf7 input[type="email"],
+  .wpcf7 textarea {
+    width: 100%;
+  }
+  #pagearea {
+    margin-top: 0;
+    padding: 20px 0;
+    position: relative;
+    z-index: 9;
+  }
+  .header-extras .header-search-form {
+    right: 95px;
+  }
+  .services-row .services-box {
+    float: none;
+    width: 100%;
+  }
+  input.search-field {
+    width: 66%;
+  }
+  .toggle {
+    margin: 0 auto;
+  }
+  .copyright-txt {
+    padding: 15px 0;
+  }
+  .header .container {
+    border-bottom: none;
+    padding: 0;
+  }
+  .skt-coll-columns-3 {
+    width: 100%;
+  }
+  .row_area {
+    margin: 0;
+  }
+  .footerleft {
+    float: none;
+    text-align: center;
+  }
+  body.home .page_content {
+    padding: 50px 0;
+  }
+  .col-columns-2 {
+    width: 100%;
+    padding: 25px 15px;
+    box-sizing: border-box;
+    float: none;
+  }
+  .site-navigation .menu li {
+    padding: 0!important;
+  }
+  .get-button {
+    text-align: center;
+  }
+  .site-navigation .menu ul a,
+  .site-navigation .menu ul ul a {
+    color: #FFF!important;
+  }
+}
+
+
+/* Mobile Landscape View */
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  .container,
+  .content-area {
+    width: auto;
+    margin: 0 auto;
+  }
+  .post-thumb {
+    width: 100%;
+    float: none;
+  }
+  .toggle {
+    width: 100%;
+  }
+  #footer-info-area .col-4 {
+    width: 100%;
+  }
+  #footer-info-area .box {
+    border-right: none!important;
+  }
+  .row_area {
+    margin: 0;
+  }
+  .site-navigation .menu li {
+    padding: 0!important;
+  }
+  .logo {
+    padding: 25px 420px 25px 0;
+  }
+  .headsearchbox {
+    margin: -56px 120px 30px 30px;
+  }
+  .get-button {
+    padding: 9px 22px;
+    position: relative;
+    z-index: 99999!important;
+  }
+  .header-cart {
+    margin: -70px 10px 0 40px;
+  }
+  #navigate-main {
+    width: 100%;
+  }
+}
+
+
+/* Tablet View */
+
+@media screen and (max-width:1023px) and (min-width:768px) {
+  body.wp-custom-logo .logo {
+    padding: 25px 50px 12px 0!important;
+  }
+  .headsearchbox {
+    float: left;
+    margin: 27px 0 0 155px;
+  }
+  .menu-toggle {
+    top: 34px;
+  }
+  .skt-coll-columns-3 {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  #footer-info-area .col-4 {
+    width: 50%;
+  }
+  #footer-info-area .box {
+    border-right: none!important;
+  }
+  .site-navigation .menu li {
+    padding: 0!important;
+  }
+  .header {
+    width: 100%;
+    padding: 0;
+    position: relative!important;
+    background-color: #222933!important;
+  }
+  .header .container {
+    padding: 0 0 40px 20px;
+  }
+  .header-cart {
+    margin: 15px 128px 0 0;
+  }
+  #navigate-main {
+    width: 100%;
+  }
+  .site-navigation .menu ul a,
+  .site-navigation .menu ul ul a {
+    color: #FFF!important;
+  }
+}
+
+@media screen and (max-width:1169px) and (min-width:768px) {
+  * {
+    box-sizing: border-box;
+  }
+  .center {
+    width: auto;
+  }
+  .container {
+    width: auto;
+    padding: 0 20px;
+  }
+  .logo {
+    width: auto;
+    float: left;
+    position: relative;
+    text-align: center;
+  }
+  .content-area {
+    width: auto;
+    margin: 0;
+    padding: 50px 20px;
+  }
+  #sidebar {
+    width: 30%;
+  }
+  .site-main {
+    width: 65%;
+  }
+  .cols-3 h5 {
+    font-size: 22px;
+  }
+  .footer {
+    padding-top: 40px;
+    padding-bottom: 30px;
+  }
+  input.search-field,
+  .post-password-form input[type="password"] {
+    width: 53%;
+  }
+  .head-info-area .center {
+    width: 98%;
+  }
+  #pagearea {
+    padding: 30px 0;
+  }
+  .toggle {
+    float: right;
+    width: 15%;
+    margin-top: 3.8%;
+  }
+  .logo {
+    min-height: inherit;
+  }
+  .post-password-form input[type="password"] {
+    width: 50%!important;
+  }
+  .row_area {
+    margin-left: 0;
+  }
+  .header-extras {
+    margin-top: 20px;
+    padding-right: 35px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 980px) {
+  .post-thumb {
+    height: auto;
+  }
+}
+
+@media screen and (max-width:1169px) and (min-width:981px) {
+  html {
+    overflow-x: hidden;
+  }
+  .headertop .header-inner {
+    width: auto;
+  }
+  input.search-field,
+  .post-password-form input[type="password"] {
+    width: 70%;
+  }
+  .toggle {
+    width: inherit;
+  }
+  .header-right {
+    width: 450px;
+  }
+  .sitenav ul li a {
+    padding: 40px 14px;
+  }
+}
+
+@media screen and (min-width: 981px) {
+  /* Menus */
+  .menu-toggle,
+  .dropdown-toggle {
+    display: none;
+  }
+  .site-navigation {
+    align-items: start;
+  }
+  .site-navigation .primary-menu,
+  .site-navigation .social-menu {
+    position: static;
+  }
+  .site-navigation .menu li {
+    position: relative;
+    width: auto;
+    left: unset;
+  }
+  .site-navigation .menu ul li:first-child {
+    border-top: 0;
+  }
+  .site-navigation .menu a,
+  .site-navigation .menu ul a,
+  .site-navigation .menu ul ul a {
+    padding: .75em .95em;
+  }
+  .site-navigation .menu ul {
+    position: absolute;
+    background-color: #ffffff;
+    text-align: left;
+    top: 100%;
+    left: -9999em;
+  }
+  .site-navigation .menu li:hover > ul,
+  .site-navigation .menu li:focus > ul,
+  .site-navigation .menu li.focus > ul {
+    left: 0;
+  }
+  .site-navigation .menu ul li {
+    position: relative;
+    width: 220px;
+  }
+  .site-navigation .menu li li:hover > ul,
+  .site-navigation .menu li li:focus > ul,
+  .site-navigation .menu li li.focus > ul {
+    top: 0;
+    left: 100%;
+  }
+  .site-navigation .menu ul a:hover,
+  .site-navigation .menu ul a:focus {
+    color: #fbcb6b;
+  }
+  .menu-item-has-children > a:after,
+  .page_item_has_children > a:after {
+    font-family: dashicons;
+    content: '\f347';
+    vertical-align: bottom;
+    margin-left: .25em;
+  }
+  .menu-item-has-children .menu-item-has-children > a:after,
+  .menu-item-has-children .page_item_has_children > a:after,
+  .page_item_has_children .menu-item-has-children > a:after,
+  .page_item_has_children .page_item_has_children > a:after {
+    content: '\f345';
+    font-family: dashicons;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(0, -50%);
+  }
+  .headertop {
+    text-align: center;
+  }
+  .headertop .header-inner {
+    width: auto;
+  }
+  .headertop .header-inner,
+  .widget-left,
+  .topright {
+    width: auto;
+    padding: 0;
+    float: none;
+  }
+  .topbar-container {
+    float: none;
+  }
+  .container.menuwrapper {
+    background: transparent!important;
+  }
+  #menubar {
+    border-top: 3px solid transparent!important;
+  }
+  #topmenu {
+    float: none;
+  }
+}

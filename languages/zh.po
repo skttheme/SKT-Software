@@ -1,0 +1,767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Software\n"
+"POT-Creation-Date: 2020-08-27 15:38+0530\n"
+"PO-Revision-Date: 2020-08-27 15:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "404 Not Found"
+msgstr "404未找到"
+
+#: 404.php:18
+msgid ""
+"Looks like you have taken a wrong turn.....Dont worry... it happens to the "
+"best of us."
+msgstr "看来您进入了一片无人区，不过别担心，您可以返回之前的页面。"
+
+#: archive.php:32 front-page.php:37 front-page.php:72
+msgid "Back"
+msgstr "返回"
+
+#: archive.php:33 front-page.php:38 front-page.php:73
+msgid "Next"
+msgstr "下一个"
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: category.php:18
+msgid "Category: "
+msgstr "类别："
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "安装所需的插件"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安装插件: %s"
+
+#: class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "更新插件: %s"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出错了。"
+
+#: class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "此主题需要以下插件：%1$s。"
+
+#: class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "此主题推荐以下插件：%1$s."
+
+#: class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "以下插件需要更新到其最新版本，以确保与此主题的最大兼容性：%1$s."
+
+#: class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "以下插件有可用的更新: %1$s."
+
+#: class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下必需的插件当前处于非活动状态: %1$s."
+
+#: class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推荐的插件目前处于非活动状态: %1$s."
+
+#: class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件 "
+
+#: class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始更新插件 "
+
+#: class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始启用插件"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需的插件安装程序"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "返回仪表板"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "插件激活成功。"
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "下列插件成功激活："
+
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "没有采取行动。插件 %1$s 已经激活。"
+
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "插件未激活。此主题需要更高版本的%s。请更新插件。"
+
+#: class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件已成功安装并激活。%1$s"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "关闭此通知"
+
+#: class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "有一个或多个必需或推荐的插件来安装，更新或激活。"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系本网站的管理员寻求帮助。"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "此插件需要更新才能与您的主题兼容。"
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "需要更新"
+
+#: class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "远程插件包不包含具有所需段落的文件夹，重命名无效。"
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "请联系插件提供商，并要求他们根据WordPress指南打包他们的插件。"
+
+#: class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "远程插件包由多个文件组成，但文件不打包在一个文件夹中。"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+#: class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "需要"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推荐"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress存储库"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部源"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "预包装"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未安装"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "激活"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "所需更新不可用"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "推荐更新"
+
+#: class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部<span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "去安装 <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "可用更新<span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "去激活 <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "安装版本："
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低要求版本："
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "可用版本："
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "没有插件来安装，更新或激活。"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "插件"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "来源"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "类型"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "版本"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "状态"
+
+#: class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "安装 %2$s"
+
+#: class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#: class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "激活 %2$s"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "从插件作者升级消息："
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "安装"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "激活"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "没有选择要安装的插件。没有采取行动。"
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "没有选择要更新的插件。没有采取行动。"
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "目前没有可以安装的插件。"
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "目前没有可以更新的插件。"
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "没有选择插件被激活。没有采取行动。"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "目前没有插件可用于激活。"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "更新插件 %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装时发生错误 %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "安装 %1$s 失败。"
+
+#: class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安装和激活过程开始。这个过程可能需要一段时间一些主机上,请耐心等待。"
+
+#: class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安装和激活成功。"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "显示详细信息"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "隐藏细节"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活都已完成。"
+
+#: class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装和激活插件 %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装过程开始。这个过程可能需要一段时间一些主机上,请耐心等待。"
+
+#: class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 安装成功。"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "所有安装已完成。"
+
+#: class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安装插件 %1$s (%2$d/%3$d)"
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s 看法 &ldquo;%2$s&rdquo;"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; 旧评论"
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "新评论 &rarr;"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: content-single.php:22 image.php:51 page.php:24 template-fullwide.php:18
+msgid "Pages:"
+msgstr "页面："
+
+#: content-single.php:26 page.php:28 template-fullwide.php:22
+msgid "Page"
+msgstr "页面"
+
+#: content.php:17
+msgid ", "
+msgstr ", "
+
+#: content.php:24
+msgid "Read More &rarr;"
+msgstr "阅读更多 &rarr;"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 <span class=\"meta-nav\">&rarr;</span>"
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr "升级到专业版"
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "现在升级"
+
+#. Theme Name of the plugin/theme
+#: footer.php:44
+msgid "SKT Software"
+msgstr "软件"
+
+#: functions.php:37
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:48
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: functions.php:49
+msgid "Appears on sidebar"
+msgstr "出现在Blog边栏上。"
+
+#: functions.php:58
+msgid "Footer Column 1"
+msgstr "页脚列1"
+
+#: functions.php:59 functions.php:69 functions.php:79 functions.php:89
+msgid "Appears on page footer"
+msgstr "出现在页面页脚上"
+
+#: functions.php:68
+msgid "Footer Column 2"
+msgstr "页脚列2"
+
+#: functions.php:78
+msgid "Footer Column 3"
+msgstr "页脚列3"
+
+#: functions.php:88
+msgid "Footer Column 4"
+msgstr "页脚列4"
+
+#: functions.php:105
+msgctxt "Roboto Condensed:on or off"
+msgid "on"
+msgstr "开启"
+
+#: functions.php:110
+msgctxt "Roboto:on or off"
+msgid "on"
+msgstr "开启"
+
+#: functions.php:111
+msgctxt "Assistant:on or off"
+msgid "on"
+msgstr "开启"
+
+#: functions.php:112
+msgctxt "Poppins:on or off"
+msgid "on"
+msgstr "开启"
+
+#: functions.php:151
+msgid "Open main menu"
+msgstr "打开主菜单"
+
+#: functions.php:152
+msgid "Close main menu"
+msgstr "关闭主菜单"
+
+#: functions.php:153
+msgid "Expand submenu"
+msgstr "展开子菜单"
+
+#: functions.php:154
+msgid "Collapse submenu"
+msgstr "折叠子菜单"
+
+#: functions.php:273
+msgid "Thank you for installing SKT Software!"
+msgstr "感谢您安装SKT软件！"
+
+#: functions.php:274
+msgid ""
+"SKT Software comes with 63+ ready-to-use Elementor templates. Install the "
+"SKT Templates plugin to get started."
+msgstr "SKT软件随附63多种现成的Elementor模板。安装SKT模板插件即可开始。"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: header.php:60
+msgid "View your shopping cart"
+msgstr "查看您的购物车"
+
+#: header.php:65
+msgid "Menu"
+msgstr "菜单"
+
+#: image.php:20
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"发布时间 <span class=“entry-date”><time class=“entry-date” datetime=“%1$s”>"
+"%2$s</time></span> 于 <a href=“%3$s”>%4$s &times; %5$s</a> 在 <a href=“%6$s” "
+"rel=“gallery”>%7$s</a>"
+
+#: image.php:29 image.php:56
+msgid "Edit"
+msgstr "编辑"
+
+#: image.php:33
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> 上一篇"
+
+#: image.php:34
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "下一个<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:5
+msgid "About Theme"
+msgstr "关于主题"
+
+#: inc/about-themes.php:15
+msgid "Theme Information"
+msgstr "主题信息"
+
+#. Description of the plugin/theme
+#: inc/about-themes.php:17
+msgid ""
+"SKT Software is a multipurpose WordPress theme which can be used for IT, "
+"repair, services, online medium, coaching, corporate, business, program, "
+"freeware, application, operating system, laptop, computer, courseware, "
+"productivity, file management and others. It comes with ready to import 63+ "
+"Elementor templates which can be used for home and inner pages. It is fast, "
+"flexible, simple and fully customizable. WooCommerce compatible."
+msgstr ""
+"SKT软件是一个多功能的WordPress主题，可用于IT，维修，服务，在线媒体，教练，公"
+"司，业务，程序，免费软件，应用程序，操作系统，笔记本电脑，计算机，课件，生产"
+"力，文件管理等。 它带有准备导入的63+ Elementor模板，可用于主页和内页。 它快"
+"速，灵活，简单且可完全自定义。 与WooCommerce兼容。"
+
+#: inc/about-themes.php:23
+msgid "Live Demo"
+msgstr "在线演示"
+
+#: inc/about-themes.php:24
+msgid "Buy Pro"
+msgstr "购买专业版"
+
+#: inc/about-themes.php:25
+msgid "Documentation"
+msgstr "文档"
+
+#: inc/customizer.php:69
+msgid "Color Scheme"
+msgstr "配色方案"
+
+#: inc/customizer.php:70
+msgid "More color options in PRO Version"
+msgstr "PRO版本中的更多颜色选项"
+
+#: inc/customizer.php:78
+msgid "Homepage Transparent Header"
+msgstr "主页透明标题"
+
+#: inc/customizer.php:88
+msgid "Uncheck To Enable Transparent Header"
+msgstr "取消选中以启用透明标题"
+
+#: inc/customizer.php:94
+msgid "Header Button"
+msgstr "标题按钮"
+
+#: inc/customizer.php:104
+msgid "Add button name here"
+msgstr "在此处添加按钮名称"
+
+#: inc/customizer.php:115
+msgid "Add button link"
+msgstr "按钮链接"
+
+#: inc/customizer.php:127
+msgid "Uncheck To Show This Section"
+msgstr "取消选中以显示此部分"
+
+#: inc/template-tags.php:28
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:55
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:73
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: inc/template-tags.php:161
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">发表于</span>"
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: no-results.php:15
+msgid "Ready to publish your first post? Get started here."
+msgstr "确定发布您的第一篇文章了吗？这里开始"
+
+#: no-results.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "对不起，没有匹配您的搜索条件。请用一些不同的关键字再试一次。"
+
+#: no-results.php:20
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "看来我们无法找到您所需要的东西。 也许搜索可以帮助。"
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#: searchform.php:10
+msgid "Search..."
+msgstr "搜索..."
+
+#: searchform.php:12
+msgid "Search"
+msgstr "搜索"
+
+#: sidebar.php:10
+msgid "Category"
+msgstr "类别"
+
+#: sidebar.php:16
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:22
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.org/shop/free-software-wordpress-theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.org"
+msgstr ""
